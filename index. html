@@ -1,24 +1,57 @@
-<!DOCTYPE html><html lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Naukri Saathi Privacy Policy</title>
-<style>
-body{font-family:Arial,sans-serif;max-width:800px;margin:30px auto;padding:20px;line-height:1.7;color:#222}
-h1,h2{color:#16794b}
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy - Naukri Saathi</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 850px;
+      margin: 0 auto;
+      padding: 24px;
+      line-height: 1.7;
+      color: #222;
+      background: #f7f9fc;
+    }
+    main {
+      background: white;
+      padding: 24px;
+      border-radius: 12px;
+    }
+    h1, h2 { color: #173b70; }
+  </style>
 </head>
 <body>
-<h1>Naukri Saathi — Privacy Policy</h1>
-<p><strong>Last updated:</strong> 23 October 2026</p><h2>1. About the App</h2>
-<p>Naukri Saathi helps users find government job notifications, results, admit cards, exam information and study resources.</p><h2>2. Personal Information</h2>
-<p>The app does not require users to create an account or log in. Based on the app's current design, saved jobs and study progress are stored locally on the user's device.</p><h2>3. Notifications and Analytics</h2>
-<p>The current version is reported not to use notifications, Firebase Analytics or similar analytics services.</p><h2>4. Advertising</h2>
-<p>The current version does not display advertisements. If advertising services such as Google AdMob are added in a future version, this policy will be updated to describe the information processed by those services and provide relevant disclosures.</p><h2>5. External Websites</h2>
-<p>The app may link to government or other external websites. Those websites operate under their own privacy policies and terms.</p><h2>6. Data Security and Retention</h2>
-<p>Locally stored information may remain on the device until it is deleted by the user or the app is uninstalled. Device backups and Android settings may affect retention.</p><h2>7. Children's Privacy</h2>
-<p>If you believe personal information has been collected from a child inappropriately, please contact the developer through the app's official distribution page.</p><h2>8. Changes to This Policy</h2>
-<p>This policy may be updated when app features or data practices change. The latest version will be published on this page.</p><h2>9. Contact</h2>
-<p>For privacy questions, use the developer contact details provided on the app's official distribution page.</p>
+<main>
+  <h1>Privacy Policy for Naukri Saathi</h1>
+  <p><strong>Last updated:</strong> October 24, 2026</p>
+
+  <p>Naukri Saathi helps users find information about jobs, examination results, and study resources. This policy explains how the app handles information.</p>
+
+  <h2>1. Personal Information</h2>
+  <p>The app does not require users to create an account or log in. We do not ask users to provide personal information directly through the app.</p>
+
+  <h2>2. Data Stored on Your Device</h2>
+  <p>Features such as saved jobs or study tracking may store information locally on your device. This information is not intentionally sent to our servers by these features.</p>
+
+  <h2>3. Notifications and Analytics</h2>
+  <p>As currently configured, the app does not send notifications and does not use analytics services.</p>
+
+  <h2>4. Advertising</h2>
+  <p>The current version of the app does not display advertisements. If advertising services are added in a future version, this policy will be updated to explain the relevant data collection and use.</p>
+
+  <h2>5. Third-Party Websites</h2>
+  <p>The app may provide links to external websites, including official recruitment and examination websites. Those websites have their own privacy policies and practices.</p>
+
+  <h2>6. Children's Privacy</h2>
+  <p>The app is intended to provide general educational and job-related information. If you believe information has been collected improperly, please contact the app publisher through its official distribution page.</p>
+
+  <h2>7. Policy Updates</h2>
+  <p>This policy may be updated when app features or data practices change. The latest version will be published on this page.</p>
+
+  <h2>8. Contact</h2>
+  <p>For privacy questions, contact the app publisher through the official page where Naukri Saathi is distributed.</p>
+</main>
 </body>
 </html>
